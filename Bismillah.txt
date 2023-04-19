@@ -3,7 +3,4 @@ hallo ben
 1. this is initial commit
 <<<<<<< HEAD
 2. this is second commit
-3. this is third commit 
-=======
-
->>>>>>> b87e18671341b6214a24615a59d5780647a6fa8b
+3. this is
