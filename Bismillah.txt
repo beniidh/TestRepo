@@ -1,6 +1,5 @@
 hallo ben
 
 1. this is initial commit
-<<<<<<< HEAD
 2. this is second commit
 3. this is
